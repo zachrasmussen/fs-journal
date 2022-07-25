@@ -13,7 +13,7 @@ A function allows you to perform a task.
 **3.** What are the `SOLID` principles?
 <!-- enter you answer in the space below -->
 ```
-I'm not sure, i'll have to look this up.
+It refers to making clean code.
 ```
 **4.** Given this array: 
 ```js
