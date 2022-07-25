@@ -64,7 +64,7 @@ document object model. put things on the webpage.
 **9.** What are the `9` ECMAScript types as defined by MDN?
 <!-- enter you answer in the space below -->
 ```
-I'm not sure, i'll have to look this up.
+Boolean, Number, Null, Undefined, BigInt, String, Symbol
 ```
 **10.** When it comes to functions or methods, what is the difference between a `parameter` and an `argument`?
 <!-- enter you answer in the space below -->
