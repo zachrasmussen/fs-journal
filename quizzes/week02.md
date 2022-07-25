@@ -13,7 +13,7 @@ A function allows you to perform a task.
 **3.** What are the `SOLID` principles?
 <!-- enter you answer in the space below -->
 ```
-
+I'm not sure, i'll have to look this up.
 ```
 **4.** Given this array: 
 ```js
@@ -32,7 +32,7 @@ let them = { name:"Them", hair: false, friends: [] }
 how would you .push the `them` object into the `you` object's array of friends?
 <!-- enter you answer in the space below -->
 ```
-
+you.push(them)
 ```
 
 **6.** Give an example of a JavaScript `Conditional`:
@@ -47,7 +47,7 @@ for ( let i = 0; i < arr.length; _______ ) {
 ```
 <!-- enter you answer in the space below -->
 ```
-itirator 
+incramentor,  i++
 ```
 **8.** What does the `DOM` acronym stand for? Which file is first accessed to render the `DOM`?
 <!-- enter you answer in the space below -->
@@ -58,7 +58,7 @@ document object model. put things on the webpage.
 **9.** What are the `9` ECMAScript types as defined by MDN?
 <!-- enter you answer in the space below -->
 ```
-
+I'm not sure, i'll have to look this up.
 ```
 **10.** When it comes to functions or methods, what is the difference between a `parameter` and an `argument`?
 <!-- enter you answer in the space below -->
