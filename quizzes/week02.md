@@ -39,6 +39,12 @@ you.push(them)
 <!-- enter you answer in the space below -->
 ```
 if (cheese >= pickaxe.price)
+ cheese -= pickaxe.price * pickaxe.quantity * pickaxe.multiplier + 100
+        pickaxe.quantity += 1
+        pickaxe.powerUp += 2
+    } else {
+        window.alert('You need more CHEESE!!! Click on the moon to get more cheese.')
+    }
 ```
 **7.** In the `for loop` below, what is the name of the piece belongs inside the empty "______" space? What would you put here to increase `i` by one on every iteration?
 ```js
