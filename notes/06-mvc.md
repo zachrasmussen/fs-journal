@@ -55,3 +55,58 @@ else {
     return false
 }
 
+
+<!-- NOTE Morning Challenge 8/2 -->
+Write a function that takes in a single str and return the most frequently occurring letter within that string
+
+//example:
+  // mostCommonLetter('hello') => 'l'
+  function mostCommonLetter(str) {
+  //your code here
+}
+
+let str = 'mostCommonLetter'
+
+function mostCommonLetter(str) {
+  let alphabet = {}
+
+  for(let i = 0; i < str.length; i++) {
+   let letter = str[i]
+   alphabet[letter]
+if(alphabet[letter]){
+  alphabet[letter] ++
+} else{
+  alphabet[letter] = 1
+  }
+  
+}
+
+return alphabet
+
+}
+
+<!-- NOTE Morning Challenge 8/3 -->
+
+Create a function that takes a number as its argument and returns an array of all its factors.
+
+// Examples:
+// factorize(12) ➞ [1, 2, 3, 4, 6, 12]
+// factorize(4) ➞ [1, 2, 4]
+// factorize(17) ➞ [1, 17]
+function factorize(n) {
+
+}
+
+function factorize(n) {
+  let factors = []
+  for (let i = 1; i <= n; i++) {
+    if(n % i == 0){
+      factors.push(i)
+    }
+  }
+return factors
+}
+
+
+
+ 
