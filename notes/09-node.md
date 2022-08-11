@@ -1,3 +1,5 @@
+Morning Challenge - August 10, 2022
+
 function battle(goodTeam, evilTeam){
 
 let gooderTeam = goodTeam.split(' ')
@@ -25,3 +27,14 @@ badSide.forEach((t, i) => {
 })
 
 }
+
+Morning Challenge - August 11, 2022
+
+let option1 = num1 + num2
+let option2 = num1 + num3
+let option 3 = num2 + num3
+
+if(option1 >= num3 && option2 >= num2 && option3 >= num1) {
+    return true
+}
+return false
